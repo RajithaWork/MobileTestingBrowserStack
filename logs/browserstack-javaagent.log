@@ -1,0 +1,586 @@
+21:27:02.325 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+21:27:02.329 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+21:27:02.614 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+21:27:02.615 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+21:27:02.677 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+21:27:02.681 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:27:02.684 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+21:27:03.050 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+21:41:10.125 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+21:41:10.128 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+21:41:10.375 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+21:41:10.376 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+21:41:10.423 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+21:41:10.425 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:41:10.429 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+21:41:10.704 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+21:48:52.990 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+21:48:52.996 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+21:48:53.345 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+21:48:53.346 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+21:48:53.402 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+21:48:53.405 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:48:53.409 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+21:48:53.720 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+10:36:48.067 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+10:36:48.070 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+10:36:48.291 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, user.dir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+10:36:48.292 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+10:36:48.337 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+10:36:48.339 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:36:48.342 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+10:36:48.538 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+10:40:41.025 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+10:40:41.029 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+10:40:41.246 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+10:40:41.247 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+10:40:41.293 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+10:40:41.295 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:40:41.299 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+10:40:41.531 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+10:46:34.379 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+10:46:34.384 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+10:46:34.622 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+10:46:34.623 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+10:46:34.671 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+10:46:34.672 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:46:34.676 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+10:46:34.878 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+10:47:31.030 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+10:47:31.032 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+10:47:31.211 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+10:47:31.212 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+10:47:31.265 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+10:47:31.267 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:47:31.272 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+10:47:31.489 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+10:53:12.237 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+10:53:12.240 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+10:53:12.430 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+10:53:12.431 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+10:53:12.474 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+10:53:12.476 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:53:12.480 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+10:53:12.719 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+10:54:29.895 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+10:54:29.898 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+10:54:30.090 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+10:54:30.091 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+10:54:30.149 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+10:54:30.152 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:54:30.161 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+10:54:30.404 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+11:06:20.576 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+11:06:20.580 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+11:06:20.777 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+11:06:20.778 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+11:06:20.828 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+11:06:20.831 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:06:20.837 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:06:21.104 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+11:10:55.223 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+11:10:55.226 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+11:10:55.409 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, user.dir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+11:10:55.409 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+11:10:55.458 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+11:10:55.461 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:10:55.465 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:10:55.675 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+11:12:13.585 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+11:12:13.588 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+11:12:13.783 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, user.dir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+11:12:13.784 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+11:12:13.828 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+11:12:13.829 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:12:13.834 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:12:14.044 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+11:12:42.542 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+11:12:42.544 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+11:12:42.737 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+11:12:42.738 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+11:12:42.792 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+11:12:42.794 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:12:42.799 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:12:43.015 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+11:20:55.246 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+11:20:55.250 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+11:20:55.473 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+11:20:55.474 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+11:20:55.522 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - mapping values are not allowed here
+ in 'string', line 49, column 16:
+         deviceName: OnePlus 11R
+                   ^
+.
+11:20:55.525 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:20:55.528 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:20:55.768 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+11:40:30.896 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+11:40:30.899 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+11:40:31.074 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+11:40:31.074 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+11:40:31.116 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:40:31.121 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+11:40:31.379 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+11:40:31.379 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:40:35.770 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:40:37.570 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+11:40:56.824 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+11:40:59.521 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/wkdwjyqzukae33kisxeofuo1werlmfbujwegglqr to view build report, insights, and many more debugging information all at one place!
+
+11:40:59.521 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:42:44.748 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+11:42:44.748 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+11:42:44.938 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+11:42:44.938 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+11:42:44.985 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:42:45.000 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+11:42:45.220 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+11:42:45.220 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:42:49.193 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:42:50.502 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+11:42:55.192 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+11:42:57.996 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/prrjflo8edk8007xeck6gzwyspkxdf2z4dlezi0j to view build report, insights, and many more debugging information all at one place!
+
+11:42:57.996 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:49:41.740 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+11:49:41.742 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+11:49:41.889 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+11:49:41.889 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\browserstack.yml
+11:49:41.890 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Rajitha\Mobile Testing\MobileFrameworkCloud. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+11:49:41.890 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Rajitha\Mobile Testing\MobileFrameworkCloud. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+12:03:41.481 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+12:03:41.483 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:03:41.629 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+12:03:41.629 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:03:41.667 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:03:41.853 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+12:03:41.853 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:03:46.293 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:03:47.827 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:03:53.264 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:03:56.058 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/mlccl5lz6i7yddixdshkvi6ax02xrh6om2rvilm1 to view build report, insights, and many more debugging information all at one place!
+
+12:03:56.058 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:04:37.991 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+12:04:37.993 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:04:38.167 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+12:04:38.168 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:04:38.213 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:04:38.442 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+12:04:38.442 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:04:41.755 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:04:43.168 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:04:47.965 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:04:50.144 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/kppm6boxbzkplidbihh2uuegjk5gtllsvftx9gff to view build report, insights, and many more debugging information all at one place!
+
+12:04:50.145 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:08:57.225 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+12:08:57.227 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:08:57.370 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+12:08:57.370 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:08:57.408 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:08:57.600 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+12:08:57.601 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:09:01.602 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:09:03.081 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:09:08.996 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:09:11.306 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/svj7wvwyzk0jmld5jxxdugywab15kxivwggweppl to view build report, insights, and many more debugging information all at one place!
+
+12:09:11.307 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:14:44.177 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+12:14:44.184 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:14:44.427 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+12:14:44.428 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:14:44.491 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:14:44.840 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+12:14:44.840 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:14:49.291 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:14:50.997 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:14:55.959 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:14:58.833 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/kjriqzkgzvcelohweuvmd5e87r1la3h8ygbghgbw to view build report, insights, and many more debugging information all at one place!
+
+12:14:58.833 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:18:41.678 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+12:18:41.680 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:18:41.876 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+12:18:41.877 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:18:41.928 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:18:42.183 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+12:18:42.183 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:18:46.578 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:18:47.987 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:18:53.088 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:19:39.356 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ihd7zbev7n3tqruxw49dvyo9ac42b2qugqrwvvx2 to view build report, insights, and many more debugging information all at one place!
+
+12:19:39.358 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:19:43.620 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/1dd338d64cd7bb70bfd1cf0585129dc4059ee355
+12:19:43.620 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:32:42.163 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+12:32:42.163 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:32:42.335 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+12:32:42.335 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:32:42.382 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:32:42.633 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+12:32:42.633 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:32:46.696 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:32:48.305 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:32:55.926 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:33:58.911 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gty9ybwmcud8cb0okylorcahxitj6jsjug2zwzwy to view build report, insights, and many more debugging information all at one place!
+
+12:33:58.911 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:34:07.320 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/89c4f8e2721486cd0814f90a18bc908797f33463
+12:34:07.320 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:43:56.469 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+12:43:56.478 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:43:57.066 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+12:43:57.068 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:43:57.238 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:43:58.113 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+12:43:58.114 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:44:06.679 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:44:08.663 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:44:19.223 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:44:23.879 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/r7ro7wqlsuhrksr2d6wmxqzhw3vtreswqp9gtjyy to view build report, insights, and many more debugging information all at one place!
+
+12:44:23.879 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:55:58.345 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+12:55:58.348 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:55:58.580 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+12:55:58.581 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:55:58.645 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:55:59.007 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+12:55:59.007 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:56:06.889 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:56:12.600 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:56:38.516 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:57:41.792 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/mqnxlv6vjxs6x9wufsez5jmf5pywgrgl7heycmdd to view build report, insights, and many more debugging information all at one place!
+
+12:57:41.792 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:57:53.746 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/c20218c05b9be581a2256db2bde9e598559e6083
+12:57:53.746 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:58:45.548 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+12:58:45.556 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:58:46.121 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+12:58:46.124 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:58:46.267 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:58:47.370 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+12:58:47.370 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:58:55.629 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:58:58.392 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:59:07.949 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:59:13.374 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ve02rxszqdeuh7qf1qd115w6cwjf9olhyozjcabd to view build report, insights, and many more debugging information all at one place!
+
+12:59:13.375 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:01:33.487 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+13:01:33.493 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+13:01:33.730 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+13:01:33.730 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+13:01:33.792 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:01:34.126 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+13:01:34.126 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:01:43.159 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:01:46.058 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:01:56.740 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:02:02.283 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/tpckqrqctfwef9kiiqyq8izmdkpx8bqpclfqpwpn to view build report, insights, and many more debugging information all at one place!
+
+13:02:02.283 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:02:38.731 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.22.0
+13:02:38.737 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+13:02:39.004 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, localrepository=C\:\\Users\\rajit\\.m2\\repository}
+13:02:39.005 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+13:02:39.066 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:02:39.471 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+13:02:39.473 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:02:49.924 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:02:55.348 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:03:05.152 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:04:06.718 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/vtcjeyjjoonhxehcqhnjfniqef2xpqwax1t0b7wi to view build report, insights, and many more debugging information all at one place!
+
+13:04:06.719 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:04:18.394 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/cfba7f7acd22826d05eea7fadbd1314c3afecdb1
+13:04:18.394 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:08:26.088 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:08:26.094 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:08:26.379 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:08:26.380 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:08:26.586 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:08:27.409 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f2644a601bfcc90341099bb4b4e11168577b569b]
+12:08:27.409 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:08:38.170 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:08:40.080 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:09:02.574 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:09:21.756 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/uc9lvnqa08xvnmbhqjl99pljvyvvkemooqednsza to view build report, insights, and many more debugging information all at one place!
+
+12:09:21.757 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:11:09.906 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:11:09.908 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:11:10.223 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:11:10.225 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:11:10.413 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:11:10.952 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://99d1c06feff589fb96770978c8ceb0b835e26486]
+12:11:10.952 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:11:17.780 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:11:22.593 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:11:30.262 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:13:12.671 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ccv0glwuqcmrckxrxaa3w8m7fnhkcmfb6tfldzbc to view build report, insights, and many more debugging information all at one place!
+
+12:13:12.672 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:13:21.482 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/ccadefc20462afa9b8a6208fe6668a2395a8c39e
+12:13:21.482 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:19:11.124 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:19:11.128 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:19:11.421 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:19:11.423 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:19:11.607 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:19:12.115 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://99d1c06feff589fb96770978c8ceb0b835e26486]
+12:19:12.116 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:19:18.969 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:19:21.011 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:19:29.111 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:21:11.296 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/iscdegllooeyjuyd86ydduvebhvazszovtop36mf to view build report, insights, and many more debugging information all at one place!
+
+12:21:11.296 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:21:18.566 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/041f05b293a46565c2e268e41ce8576ed475c3cd
+12:21:18.566 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:44:36.234 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:44:36.238 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:44:36.513 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:44:36.516 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:44:36.723 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:44:37.241 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://99d1c06feff589fb96770978c8ceb0b835e26486]
+12:44:37.241 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:44:44.852 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:44:46.691 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:44:54.312 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:47:45.072 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/iobmbhmtpyqsxfq2ztwwag06bgikgsmvs27pvxud to view build report, insights, and many more debugging information all at one place!
+
+12:47:45.072 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:47:54.698 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/5dc69dd3d3b3a641c97bc945771b9f01aa21560c
+12:47:54.698 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:55:58.294 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+12:55:58.299 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+12:55:58.559 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:55:58.560 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+12:55:58.793 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:55:59.697 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://99d1c06feff589fb96770978c8ceb0b835e26486]
+12:55:59.697 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:56:29.572 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:56:49.644 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:57:00.611 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:57:35.212 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/h6vdom1nvfyl2c5edc3vtivrdtc5zj4girxxtbij to view build report, insights, and many more debugging information all at one place!
+
+12:57:35.212 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:58:29.045 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/b473e0a860397fec76af92e459da700bfad59b0e
+12:58:29.046 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:12:32.342 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+13:12:32.344 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+13:12:32.590 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:12:32.591 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+13:12:32.768 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:12:33.287 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://99d1c06feff589fb96770978c8ceb0b835e26486]
+13:12:33.287 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:12:45.268 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:12:46.683 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:12:59.811 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:13:29.890 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ktvsgcx0wx3axmnqekzl35zdabschjdatecijl7m to view build report, insights, and many more debugging information all at one place!
+
+13:13:29.892 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:13:41.471 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/c95560240cb8d3a6879ba2dee2380de8bc4ab88f
+13:13:41.471 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:16:10.409 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.23.1
+13:16:10.411 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+13:16:10.680 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:16:10.682 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+13:16:10.889 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:16:11.507 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://99d1c06feff589fb96770978c8ceb0b835e26486]
+13:16:11.507 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:16:18.178 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:16:21.224 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:16:28.989 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:16:56.751 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/zsivs18dtbprdggyhjx9ss0eutnmkl6r8a2kqsu1 to view build report, insights, and many more debugging information all at one place!
+
+13:16:56.751 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:17:05.148 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/9b1d81480dca2bd64b33e70a9f7b5dc800393d96
+13:17:05.149 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:45:58.784 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.24.0
+11:45:58.792 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.3
+11:45:59.451 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Rajitha\\Mobile Testing\\MobileFrameworkCloud, ipaddress=127.0.0.1, localrepository=C\:\\windows\\system32\\config\\systemprofile\\.m2\\repository}
+11:45:59.455 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Rajitha\Mobile Testing\MobileFrameworkCloud\browserstack.yml
+11:45:59.655 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:46:00.526 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://99d1c06feff589fb96770978c8ceb0b835e26486]
+11:46:00.527 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:46:05.731 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:46:07.296 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
